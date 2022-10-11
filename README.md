@@ -2,7 +2,7 @@
 ## Machine Learning based vehicle performance analyzer
 
 ## Problem Statement
-    The automotive industry is extremely competitive. with increasing fuel prices and picky consumers. Automobile makers are constantly optimizing their processes to increase fuel efficiency. The performance anlaysis of the car is based on the various parameters. These are the factors on which the health of the car is analyzed, improved to gain the competitive advantage. Developing such application will solve the problems in evaluation of the vehicle
+   The automotive industry is extremely competitive. with increasing fuel prices and picky consumers. Automobile makers are constantly optimizing their processes to increase fuel efficiency. The performance anlaysis of the car is based on the various parameters. These are the factors on which the health of the car is analyzed, improved to gain the competitive advantage. Developing such application will solve the problems in evaluation of the vehicle
 
 ### Team members
 1) Niyas Khan M (Team Leader)
